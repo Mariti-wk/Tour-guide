@@ -1,0 +1,157 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.000.004
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+JRE paths:	;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft\Edge\Application\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\msys64\ucrt64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Windsurf\bin\javaw.exe (not found)
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Inno Setup 5\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_111\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (OK)
+Check launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe (OK)
+Check javac:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javac.exe (OK)
+Match:		1.008.000
+Runtime used:	1.008.000 (64-bit)
+Launcher:	C:\PROGRA~1\Java\JDK18~1.0_1\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe"
+Args length:	93/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.023.000_000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+JRE paths:	;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft\Edge\Application\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\msys64\ucrt64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Windsurf\bin\javaw.exe (not found)
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Inno Setup 5\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_111\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (Ignore)
+Ignore:		1.023.000
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe"
+Args length:	93/32768 chars
+Exit code:	1
+
+
+Version:	3.50
+CmdLine:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.023.000_000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+JRE paths:	;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Microsoft\Edge\Application;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin;C:\Users\HP\AppData\Local\Microsoft\WindowsApps;C:\msys64\ucrt64\bin;C:\Users\HP\AppData\Local\Programs\Windsurf\bin;c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin;C:\Program Files (x86)\Inno Setup 5;C:\Program Files\Java\jre1.8.0_111\bin
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Microsoft\Edge\Application\bin\javaw.exe (not found)
+Check launcher:	C:\ProgramData\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\system32\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\Windows\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Git\cmd\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\Downloads\gradle-8.13-all\gradle-8.13\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\msys64\ucrt64\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Windsurf\bin\javaw.exe (not found)
+Check launcher:	c:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Users\HP\AppData\Local\Programs\cursor\resources\app\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Inno Setup 5\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_111\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jre1.8.0_111\bin\javac.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_111
+Version string: 1.008.000_111 / 64-Bit (Ignore)
+Ignore:		1.008.000_111
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\23
+Version string: 1.023.000 / 64-Bit (Ignore)
+Ignore:		1.023.000
+Check:		SOFTWARE\JavaSoft\JDK\23.0.2
+Version string: 1.023.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Match:		1.023.000_002
+Runtime used:	1.023.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\HP\Documents\NetBeansProjects\Interactive Tour Guide\interactivetourguide.exe"
+Args length:	93/32768 chars
+Exit code:	1
